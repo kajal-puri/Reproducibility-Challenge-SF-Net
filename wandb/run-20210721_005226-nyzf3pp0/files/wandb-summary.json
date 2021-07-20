@@ -1,0 +1,1 @@
+{"Model Name": "sfnet", "_runtime": 674, "_timestamp": 1626822220, "_step": 3933, "Alpha": 1, "Beta": 1, "gamma": 0.1, "Video_loss": 0.5629258155822754, "frame_loss": 0.9076187610626221, "Action_loss": 0.13184300065040588, "Total_loss": 1.602387547492981}

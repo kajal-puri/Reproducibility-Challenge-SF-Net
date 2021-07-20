@@ -1,0 +1,115 @@
+2021-07-21 00:23:18,545 INFO    MainThread:29119 [wandb_setup.py:_flush():69] setting env: {}
+2021-07-21 00:23:18,546 INFO    MainThread:29119 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-07-21 00:23:18,546 INFO    MainThread:29119 [wandb_init.py:_log_setup():337] Logging user logs to /home/user/puri/repro/SF-Net/wandb/run-20210721_002318-21bmic10/logs/debug.log
+2021-07-21 00:23:18,546 INFO    MainThread:29119 [wandb_init.py:_log_setup():338] Logging internal logs to /home/user/puri/repro/SF-Net/wandb/run-20210721_002318-21bmic10/logs/debug-internal.log
+2021-07-21 00:23:18,546 INFO    MainThread:29119 [wandb_init.py:init():370] calling init triggers
+2021-07-21 00:23:18,546 INFO    MainThread:29119 [wandb_init.py:init():375] wandb.init called with sweep_config: {}
+config: {}
+2021-07-21 00:23:18,546 INFO    MainThread:29119 [wandb_init.py:init():416] wandb.init() called when a run is still active
+2021-07-21 00:23:24,999 INFO    MainThread:29119 [wandb_watch.py:watch():40] Watching
+2021-07-21 00:44:04,433 INFO    MainThread:29119 [wandb_watch.py:watch():40] Watching
+2021-07-21 00:44:04,434 INFO    MainThread:29119 [wandb_run.py:finish():1293] finishing run kayjay/SF-Net/2mtlg0x7
+2021-07-21 00:44:04,434 INFO    MainThread:29119 [wandb_run.py:_atexit_cleanup():1593] got exitcode: 0
+2021-07-21 00:44:04,434 INFO    MainThread:29119 [wandb_run.py:_restore():1565] restore
+2021-07-21 00:44:06,788 INFO    MainThread:29119 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 702
+  total_bytes: 702
+}
+
+2021-07-21 00:44:07,043 INFO    MainThread:29119 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 702
+  total_bytes: 702
+}
+
+2021-07-21 00:44:07,753 INFO    MainThread:29119 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 702
+  total_bytes: 123410
+}
+
+2021-07-21 00:44:07,856 INFO    MainThread:29119 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 702
+  total_bytes: 123410
+}
+
+2021-07-21 00:44:07,957 INFO    MainThread:29119 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 702
+  total_bytes: 123410
+}
+
+2021-07-21 00:44:08,060 INFO    MainThread:29119 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 123410
+  total_bytes: 123410
+}
+
+2021-07-21 00:44:08,163 INFO    MainThread:29119 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 123410
+  total_bytes: 123410
+}
+
+2021-07-21 00:44:08,268 INFO    MainThread:29119 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 123410
+  total_bytes: 123410
+}
+
+2021-07-21 00:44:08,371 INFO    MainThread:29119 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 123410
+  total_bytes: 123410
+}
+
+2021-07-21 00:44:08,474 INFO    MainThread:29119 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 123410
+  total_bytes: 123410
+}
+
+2021-07-21 00:44:08,921 INFO    MainThread:29119 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 123410
+  total_bytes: 123410
+}
+
+2021-07-21 00:44:09,024 INFO    MainThread:29119 [wandb_run.py:_wait_for_finish():1715] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 123410
+  total_bytes: 123410
+}
+
+2021-07-21 00:44:10,080 INFO    MainThread:29119 [wandb_run.py:_show_summary():1870] rendering summary
+2021-07-21 00:44:10,081 INFO    MainThread:29119 [wandb_run.py:_show_history():1908] rendering history
+2021-07-21 00:44:10,081 INFO    MainThread:29119 [wandb_run.py:_show_files():1937] logging synced files

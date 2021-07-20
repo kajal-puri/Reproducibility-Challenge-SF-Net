@@ -1,0 +1,137 @@
+2021-07-21 01:03:36,347 INFO    MainThread:2315 [wandb_setup.py:_flush():69] setting env: {}
+2021-07-21 01:03:36,356 INFO    MainThread:2315 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-07-21 01:03:36,365 INFO    MainThread:2315 [wandb_init.py:_log_setup():337] Logging user logs to /home/user/puri/repro/SF-Net/wandb/run-20210721_010336-4on0733r/logs/debug.log
+2021-07-21 01:03:36,374 INFO    MainThread:2315 [wandb_init.py:_log_setup():338] Logging internal logs to /home/user/puri/repro/SF-Net/wandb/run-20210721_010336-4on0733r/logs/debug-internal.log
+2021-07-21 01:03:36,382 INFO    MainThread:2315 [wandb_init.py:init():370] calling init triggers
+2021-07-21 01:03:36,391 INFO    MainThread:2315 [wandb_init.py:init():375] wandb.init called with sweep_config: {}
+config: {}
+2021-07-21 01:03:36,399 INFO    MainThread:2315 [wandb_init.py:init():416] wandb.init() called when a run is still active
+2021-07-21 01:03:37,303 INFO    MainThread:2315 [wandb_setup.py:_flush():69] setting env: {}
+2021-07-21 01:03:37,312 INFO    MainThread:2315 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-07-21 01:03:37,321 INFO    MainThread:2315 [wandb_init.py:_log_setup():337] Logging user logs to /home/user/puri/repro/SF-Net/wandb/run-20210721_010337-2tn4qk37/logs/debug.log
+2021-07-21 01:03:37,329 INFO    MainThread:2315 [wandb_init.py:_log_setup():338] Logging internal logs to /home/user/puri/repro/SF-Net/wandb/run-20210721_010337-2tn4qk37/logs/debug-internal.log
+2021-07-21 01:03:37,337 INFO    MainThread:2315 [wandb_init.py:init():370] calling init triggers
+2021-07-21 01:03:37,346 INFO    MainThread:2315 [wandb_init.py:init():375] wandb.init called with sweep_config: {}
+config: {}
+2021-07-21 01:03:37,354 INFO    MainThread:2315 [wandb_init.py:init():416] wandb.init() called when a run is still active
+2021-07-21 01:03:37,994 INFO    MainThread:2315 [wandb_setup.py:_flush():69] setting env: {}
+2021-07-21 01:03:38,003 INFO    MainThread:2315 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-07-21 01:03:38,011 INFO    MainThread:2315 [wandb_init.py:_log_setup():337] Logging user logs to /home/user/puri/repro/SF-Net/wandb/run-20210721_010337-2friyib1/logs/debug.log
+2021-07-21 01:03:38,020 INFO    MainThread:2315 [wandb_init.py:_log_setup():338] Logging internal logs to /home/user/puri/repro/SF-Net/wandb/run-20210721_010337-2friyib1/logs/debug-internal.log
+2021-07-21 01:03:38,028 INFO    MainThread:2315 [wandb_init.py:init():370] calling init triggers
+2021-07-21 01:03:38,036 INFO    MainThread:2315 [wandb_init.py:init():375] wandb.init called with sweep_config: {}
+config: {}
+2021-07-21 01:03:38,044 INFO    MainThread:2315 [wandb_init.py:init():416] wandb.init() called when a run is still active
+2021-07-21 01:03:38,808 INFO    MainThread:2315 [wandb_setup.py:_flush():69] setting env: {}
+2021-07-21 01:03:38,817 INFO    MainThread:2315 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-07-21 01:03:38,825 INFO    MainThread:2315 [wandb_init.py:_log_setup():337] Logging user logs to /home/user/puri/repro/SF-Net/wandb/run-20210721_010338-3599axq9/logs/debug.log
+2021-07-21 01:03:38,834 INFO    MainThread:2315 [wandb_init.py:_log_setup():338] Logging internal logs to /home/user/puri/repro/SF-Net/wandb/run-20210721_010338-3599axq9/logs/debug-internal.log
+2021-07-21 01:03:38,842 INFO    MainThread:2315 [wandb_init.py:init():370] calling init triggers
+2021-07-21 01:03:38,850 INFO    MainThread:2315 [wandb_init.py:init():375] wandb.init called with sweep_config: {}
+config: {}
+2021-07-21 01:03:38,858 INFO    MainThread:2315 [wandb_init.py:init():416] wandb.init() called when a run is still active
+2021-07-21 01:03:39,361 INFO    MainThread:2315 [wandb_setup.py:_flush():69] setting env: {}
+2021-07-21 01:03:39,370 INFO    MainThread:2315 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-07-21 01:03:39,379 INFO    MainThread:2315 [wandb_init.py:_log_setup():337] Logging user logs to /home/user/puri/repro/SF-Net/wandb/run-20210721_010339-2p160rwz/logs/debug.log
+2021-07-21 01:03:39,387 INFO    MainThread:2315 [wandb_init.py:_log_setup():338] Logging internal logs to /home/user/puri/repro/SF-Net/wandb/run-20210721_010339-2p160rwz/logs/debug-internal.log
+2021-07-21 01:03:39,395 INFO    MainThread:2315 [wandb_init.py:init():370] calling init triggers
+2021-07-21 01:03:39,403 INFO    MainThread:2315 [wandb_init.py:init():375] wandb.init called with sweep_config: {}
+config: {}
+2021-07-21 01:03:39,411 INFO    MainThread:2315 [wandb_init.py:init():416] wandb.init() called when a run is still active
+2021-07-21 01:03:40,200 INFO    MainThread:2315 [wandb_setup.py:_flush():69] setting env: {}
+2021-07-21 01:03:40,209 INFO    MainThread:2315 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-07-21 01:03:40,217 INFO    MainThread:2315 [wandb_init.py:_log_setup():337] Logging user logs to /home/user/puri/repro/SF-Net/wandb/run-20210721_010340-18o10k70/logs/debug.log
+2021-07-21 01:03:40,225 INFO    MainThread:2315 [wandb_init.py:_log_setup():338] Logging internal logs to /home/user/puri/repro/SF-Net/wandb/run-20210721_010340-18o10k70/logs/debug-internal.log
+2021-07-21 01:03:40,234 INFO    MainThread:2315 [wandb_init.py:init():370] calling init triggers
+2021-07-21 01:03:40,242 INFO    MainThread:2315 [wandb_init.py:init():375] wandb.init called with sweep_config: {}
+config: {}
+2021-07-21 01:03:40,250 INFO    MainThread:2315 [wandb_init.py:init():416] wandb.init() called when a run is still active
+2021-07-21 01:03:40,763 ERROR   MainThread:2315 [wandb_init.py:init():787] error
+Traceback (most recent call last):
+  File "/home/user/puri/miniconda3/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 758, in init
+  File "/home/user/puri/miniconda3/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 178, in setup
+  File "/home/user/puri/miniconda3/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 334, in _log_setup
+  File "/home/user/puri/miniconda3/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 198, in _enable_logging
+  File "/home/user/puri/miniconda3/lib/python3.8/logging/__init__.py", line 1143, in __init__
+  File "/home/user/puri/miniconda3/lib/python3.8/logging/__init__.py", line 1172, in _open
+OSError: [Errno 24] Too many open files: '/home/user/puri/repro/SF-Net/wandb/run-20210721_010340-3v5tzfso/logs/debug.log'
+2021-07-21 01:03:42,779 INFO    MainThread:2315 [wandb_run.py:_atexit_cleanup():1593] got exitcode: 1
+2021-07-21 01:03:42,791 INFO    MainThread:2315 [wandb_run.py:_restore():1565] restore
+2021-07-21 01:03:45,554 INFO    MainThread:2315 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 702
+  total_bytes: 702
+}
+
+2021-07-21 01:03:45,755 INFO    MainThread:2315 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 702
+  total_bytes: 702
+}
+
+2021-07-21 01:03:46,241 INFO    MainThread:2315 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 4
+}
+pusher_stats {
+  uploaded_bytes: 702
+  total_bytes: 33427
+}
+
+2021-07-21 01:03:46,363 INFO    MainThread:2315 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 702
+  total_bytes: 39668
+}
+
+2021-07-21 01:03:46,526 INFO    MainThread:2315 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 39668
+  total_bytes: 39668
+}
+
+2021-07-21 01:03:46,687 INFO    MainThread:2315 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 39668
+  total_bytes: 39668
+}
+
+2021-07-21 01:03:46,846 INFO    MainThread:2315 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 39668
+  total_bytes: 39668
+}
+
+2021-07-21 01:03:47,307 INFO    MainThread:2315 [wandb_run.py:_wait_for_finish():1715] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 39668
+  total_bytes: 39668
+}
+
+2021-07-21 01:03:47,432 INFO    MainThread:2315 [wandb_run.py:_wait_for_finish():1715] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 39668
+  total_bytes: 39668
+}
+
+2021-07-21 01:03:48,498 INFO    MainThread:2315 [wandb_run.py:_show_summary():1870] rendering summary
+2021-07-21 01:03:48,507 INFO    MainThread:2315 [wandb_run.py:_show_history():1908] rendering history
+2021-07-21 01:03:48,516 INFO    MainThread:2315 [wandb_run.py:_show_files():1937] logging synced files
